@@ -353,6 +353,8 @@
     <Content Include="assets\pageContent\banner.jpg" />
     <Content Include="assets\pageContent\dessert.jpg" />
     <Content Include="assets\pageContent\image.jpg" />
+    <Content Include="assets\pageContent\jish-iloveimg-cropped.png" />
+    <Content Include="assets\pageContent\jish.png" />
     <Content Include="assets\pageContent\loginbackground.jpg" />
     <Content Include="assets\pageContent\meat.jpg" />
     <Content Include="assets\pageContent\meat.png" />
